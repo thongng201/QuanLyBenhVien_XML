@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BenhVien.People" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAARAAAAEQAAAAAAAAAAAAAgAIAAIAA=</HashCode>
+      <FileName>People\People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.BenhVien" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAEAgAAAAAAAAAABAAEAAAAAAAAAAACAAEAgAg=</HashCode>
+      <FileName>BenhVien\BenhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Khoa.Khoa" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAIAAAAAACAAAAAgAAAAAAAAAAAAAgCAAE=</HashCode>
+      <FileName>BenhVien\Khoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.PhongKham" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAACAQAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAI=</HashCode>
+      <FileName>BenhVien\PhongKham.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.ChiPhi" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAABAIAAAAAAAAEAAAABAABAAAAAQAQIAAAEA=</HashCode>
+      <FileName>ChiPhi\ChiPhi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.DieuTri" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAABAAGAIIAAAACACAAAAAiAAAAAAAAIAQAgA=</HashCode>
+      <FileName>ChiPhi\DieuTri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.DSHoaDon" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAEAAAAAAAAAAAAIAAAAAIAAAAAAAIUAAQA=</HashCode>
+      <FileName>ChiPhi\DSHoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.HoaDon" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgABAAAAAACAAAAAqAAAACwAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>ChiPhi\HoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.KhamBenh" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAACAAAAARAAICAQACAiAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ChiPhi\KhamBenh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.BacSi" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAACAAAAAAAAAAAAAAAAAAAAAAAIAAIAA=</HashCode>
+      <FileName>People\BacSi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BenhVien.BenhNhan" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEABAAAAAAAAAAAAAEAAAAAAAAAAAAAIAIAAA=</HashCode>
+      <FileName>People\BenhNhan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.DSPeople" Collapsed="true">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAQAAAACAAAAAAAAAAAgCAIAAAQIkAAABCAAIEgAAA=</HashCode>
+      <FileName>People\DSPeople.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BenhVien.YTa" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAACAAAAAAAAAAAAAAAAAAAAAAAIAAIAA=</HashCode>
+      <FileName>People\YTa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BenhVien.Program" Collapsed="true">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BenhVien.nhanVienYTe">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>nhanVienYTe.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

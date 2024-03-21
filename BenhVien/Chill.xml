@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<DS>
+	<People>
+		<Ma>BS001</Ma>
+		<loai>1</loai>
+		<Ten>Khoa</Ten>
+		<GT>Nam</GT>
+		<tuoi>32</tuoi>
+		<CK>Mat</CK>
+	</People>
+	<People>
+		<Ma>YT001</Ma>
+		<loai>2</loai>
+		<Ten>Dao</Ten>
+		<GT>Nu</GT>
+		<tuoi>20</tuoi>
+		<CK>Mat</CK>
+	</People>
+	<People>
+		<Ma>BN001</Ma>
+		<loai>3</loai>
+		<Ten>Benh nhan 1</Ten>
+		<GT>Nu</GT>
+		<tuoi>20</tuoi>
+		<Address>123 TPHCM</Address>
+		<BenhLy>Dau mat do</BenhLy>
+	</People>
+	<People>
+		<Ma>BS002</Ma>
+		<loai>1</loai>
+		<Ten>Huyen</Ten>
+		<GT>Nu</GT>
+		<tuoi>30</tuoi>
+		<CK>Rang</CK>
+	</People>
+	<People>
+		<Ma>YT002</Ma>
+		<loai>2</loai>
+		<Ten>THANG</Ten>
+		<GT>NAM</GT>
+		<tuoi>20</tuoi>
+		<CK>RANG</CK>
+	</People>
+
+	<ChiPhi>
+		<maHD>HD01</maHD>
+		<loai>1</loai>
+		<loaiCP>1</loaiCP>
+		<maCP>CP001</maCP>
+		<soTien>30000</soTien>
+		<ngayPS>12/9/2023 1:53:52 PM</ngayPS>
+		<maKham>MK001</maKham>
+		<KQKham>Cam</KQKham>
+		<ngayKham>12/9/2023 1:53:52 PM</ngayKham>
+		<BacSi>Khoa 32</BacSi>
+		<YTa>Dao 20</YTa>
+	</ChiPhi>
+	<ChiPhi>
+		<maHD>HD01</maHD>
+		<loai>2</loai>
+		<loaiCP>2</loaiCP>
+		<maCP>CP002</maCP>
+		<soTien>100000</soTien>
+		<ngayPS>12/14/2023 9:53:52 AM</ngayPS>
+		<maDT>DT001</maDT>
+		<KQDT>Thanh cong</KQDT>
+		<NgayBD>10/14/2023 1:53:52 PM</NgayBD>
+		<NgayKT>12/14/2023 9:53:52 AM</NgayKT>
+		<BacSi>BS001</BacSi>
+		<YTa>YT001</YTa>
+	</ChiPhi>
+	<ChiPhi>
+		<maHD>HD02</maHD>
+		<loai>1</loai>
+		<loaiCP>1</loaiCP>
+		<maCP>KB01</maCP>
+		<soTien>500000</soTien>
+		<ngayPS>12/15/2023 12:00:00 AM</ngayPS>
+		<maKham>KB01</maKham>
+		<KQKham>ung thu</KQKham>
+		<ngayKham>12/14/2023 12:00:00 AM</ngayKham>
+		<BacSi>BS002</BacSi>
+		<YTa>YT001</YTa>
+	</ChiPhi>
+
+	<HoaDon>
+		<maHD>HD01</maHD>
+		<maBenhNhan>BN001</maBenhNhan>
+		<tongCP>0</tongCP>
+		<ngayHD>12/14/2023 1:53:52 PM</ngayHD>
+	</HoaDon>
+	<HoaDon>
+		<maHD>HD02</maHD>
+		<tongCP>0</tongCP>
+		<maBenhNhan>BN002</maBenhNhan>
+		<ngayHD>12/16/2023 9:14:17 AM</ngayHD>
+	</HoaDon>
+	
+</DS>
